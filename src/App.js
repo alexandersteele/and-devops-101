@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Hello from Alex, GCP and Kubernetes
+          Hello from Alex, GCP and Kubernetes!
         </h1>
         <p>
           (Using automated pipeline connected to Github).
